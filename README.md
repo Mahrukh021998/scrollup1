@@ -2,7 +2,7 @@
 > A jQuery plugin to create a customisable 'Scroll to top' feature that will work with any website
 
 ## Installing with Bower
-
+mahrukh
 To install scrollUp with Bower:
 
 ```bash
